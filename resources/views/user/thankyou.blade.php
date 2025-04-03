@@ -47,6 +47,7 @@
                         
 <li><a href="{{url('loginpage')}}">Login</a></li>
 <li><a href="{{url('register')}}">Register</a></li>
+<li><a href="{{url('register')}}">git hub</a></li>
 @endguest  
 @auth 
 <li>                
